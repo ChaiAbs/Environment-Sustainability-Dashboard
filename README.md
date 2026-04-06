@@ -13,7 +13,6 @@
 - [Dashboard Sections](#dashboard-sections)
 - [Key KPIs](#key-kpis)
 - [Data Sources](#data-sources)
-- [File Structure](#file-structure)
 - [How to Open](#how-to-open)
 - [Team](#team)
 
