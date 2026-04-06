@@ -30,9 +30,11 @@ The report follows the **GHG Protocol** framework for emissions reporting (Scope
 ## Dashboard Sections
 
 ### 🔥 1. Emissions + Electricity & PV
-Tracks greenhouse gas emissions across all three GHG Protocol scopes.
+
 
 ![Emissions Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.14.png)
+
+Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 
 | Visual | Description |
 |--------|-------------|
@@ -41,6 +43,7 @@ Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 | 100% Stacked Column | Scope 3 value chain emissions (Categories 1–15) |
 | Clustered Column | Voluntary carbon surrenders by year |
 | KPI Card | Energy intensity vs 2025 target |
+
 
 
 Monitors solar photovoltaic capacity and energy intensity performance.
