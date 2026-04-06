@@ -32,7 +32,7 @@ The report follows the **GHG Protocol** framework for emissions reporting (Scope
 ### 🔥 1. Emissions
 Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 
-![Emissions Dashboard](images/01_emissions.png)
+![Emissions Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.14.png)
 
 | Visual | Description |
 |--------|-------------|
@@ -47,7 +47,8 @@ Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 ### ⚡ 2. Electricity & PV
 Monitors solar photovoltaic capacity and energy intensity performance.
 
-![Electricity & PV Dashboard](images/02_electricity_pv.png)
+![Electricity & PV Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.14.png
+)
 
 | Visual | Description |
 |--------|-------------|
@@ -60,7 +61,7 @@ Monitors solar photovoltaic capacity and energy intensity performance.
 ### 🌳 3. Trees
 A full campus tree inventory combining geospatial mapping with health and structural analysis.
 
-![Trees Dashboard](images/03_trees.png)
+![Trees Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.41.03.png)
 
 | Visual | Description |
 |--------|-------------|
@@ -74,7 +75,7 @@ A full campus tree inventory combining geospatial mapping with health and struct
 ### 💧 4. Water & Waste
 Tracks water consumption intensity and solid waste generation against sustainability targets.
 
-![Water & Waste Dashboard](images/04_water_waste.png)
+![Water & Waste Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.34.png)
 
 | Visual | Description |
 |--------|-------------|
