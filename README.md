@@ -29,7 +29,7 @@ The report follows the **GHG Protocol** framework for emissions reporting (Scope
 
 ## Dashboard Sections
 
-### 🔥 1. Emissions
+### 🔥 1. Emissions + Electricity & PV
 Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 
 ![Emissions Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.14.png)
@@ -42,23 +42,18 @@ Tracks greenhouse gas emissions across all three GHG Protocol scopes.
 | Clustered Column | Voluntary carbon surrenders by year |
 | KPI Card | Energy intensity vs 2025 target |
 
----
 
-### ⚡ 2. Electricity & PV
 Monitors solar photovoltaic capacity and energy intensity performance.
-
-![Electricity & PV Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.14.png
-)
 
 | Visual | Description |
 |--------|-------------|
 | Clustered Column | PV capacity installed per year |
 | Line Chart | Energy intensity vs 2025 target (189 kWh/m² GFA) |
 | KPI Cards | 2025 targets: PV capacity 5.71 MW, Energy intensity 189 |
-
 ---
 
-### 🌳 3. Trees
+
+### 🌳 2. Trees
 A full campus tree inventory combining geospatial mapping with health and structural analysis.
 
 ![Trees Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.41.03.png)
@@ -72,7 +67,7 @@ A full campus tree inventory combining geospatial mapping with health and struct
 
 ---
 
-### 💧 4. Water & Waste
+### 💧 3. Water & Waste
 Tracks water consumption intensity and solid waste generation against sustainability targets.
 
 ![Water & Waste Dashboard](https://github.com/ChaiAbs/Environment-Sustainability-Dashboard/blob/main/Screenshot%202026-04-06%20at%2011.40.34.png)
@@ -115,24 +110,6 @@ The following datasets are embedded in the Power BI model:
 
 ---
 
-## File Structure
-
-```
-📁 INFS5700-Sustainability-Dashboard/
-├── 📄 README.md
-├── 📁 dashboard/
-│   └── GROUP_ASSIGNMENT_INFS5700_W18A_G1.pbix
-├── 📁 images/
-│   ├── 01_emissions.png
-│   ├── 02_electricity_pv.png
-│   ├── 03_trees.png
-│   └── 04_water_waste.png
-└── 📁 data/                  ← optional
-    ├── emissions_cleaned.csv
-    └── tree_data_cleaned.csv
-```
-
----
 
 ## How to Open
 
